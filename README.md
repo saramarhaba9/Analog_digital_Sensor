@@ -1,4 +1,4 @@
-# Analog and Digital Sensor
+# Analog Sensor
 
 
 # Analog Sensor circuit 
@@ -10,6 +10,3 @@ Tempreature sensor circuit
 
 
 ![Analog sensor1 ](https://user-images.githubusercontent.com/56765097/181503160-2c822d48-9bd6-4fb8-865a-a1c7fb4e9a35.png)
-
-
-# Digitlal Sensor circuit
